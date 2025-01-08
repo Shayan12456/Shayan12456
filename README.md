@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [shayandanish.com](shayandanish.com)
 
-- 💬 Ask me about **React, MongoDB, Express, Node.js, MySQL, etc.**
+- 💬 Ask me about **React, MongoDB, Express, Node.js, MySQL, PostgreSQL, etc.**
 
 - 📫 How to reach me **shayan.developer12@gmail.com**
 
