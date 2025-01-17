@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Advanced Backend(Node.js)**
+- 🌱 I’m currently learning **Advanced Backend (Node.js)**
 
 - 👨‍💻 All of my projects are available at [shayandanish.com](shayandanish.com)
 
